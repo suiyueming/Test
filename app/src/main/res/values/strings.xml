@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="test">1、git status -s 查看修改状态</string>
+    <string name="header">this is header</string>
+</resources>
